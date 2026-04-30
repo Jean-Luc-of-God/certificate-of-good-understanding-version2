@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+*.user
+logs/
+temp_docx_3/
